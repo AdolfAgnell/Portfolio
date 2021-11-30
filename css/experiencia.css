@@ -81,6 +81,9 @@
   background: #ffffff;
   padding: 5px 10px;
 }
+.empresa-habilidades li a {
+  text-decoration: none;
+}
 
 @media (max-width: 800px) {
   .experiencia {
