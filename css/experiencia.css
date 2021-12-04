@@ -19,6 +19,10 @@
   color: #525252;
 }
 
+.ConferirProjeto {
+  margin-top: 50px;
+}
+
 .experiencia-texto strong {
   color: #141414;
 }
@@ -80,9 +84,6 @@
   border-radius: 4px;
   background: #ffffff;
   padding: 5px 10px;
-}
-.empresa-habilidades li a {
-  text-decoration: none;
 }
 
 @media (max-width: 800px) {
